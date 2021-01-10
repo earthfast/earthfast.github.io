@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>https://earthfast.github.io/test/sitemap.xml</loc>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://earthfast.github.io/uk/sitemap.xml</loc>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://earthfast.github.io/bd/sitemap.xml</loc>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://earthfast.github.io/de/sitemap.xml</loc>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://earthfast.github.io/es/sitemap.xml</loc>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://earthfast.github.io/france/sitemap.xml</loc>
+    
+      <lastmod>2019-12-23T13:05:29+06:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://earthfast.github.io/india/sitemap.xml</loc>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://earthfast.github.io/sv/sitemap.xml</loc>
+    
+  </sitemap>
+  
+</sitemapindex>
