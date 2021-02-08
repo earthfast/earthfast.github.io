@@ -15,15 +15,15 @@
   </url>
   
   <url>
+    <loc>https://earthfast.info/how/</loc>
+  </url>
+  
+  <url>
     <loc>https://earthfast.info/inaction/</loc>
   </url>
   
   <url>
     <loc>https://earthfast.info/join/</loc>
-  </url>
-  
-  <url>
-    <loc>https://earthfast.info/preparation/</loc>
   </url>
   
   <url>
@@ -36,6 +36,38 @@
   
   <url>
     <loc>https://earthfast.info/why/</loc>
+  </url>
+  
+  <url>
+    <loc>https://earthfast.info/why/climate_change_flooding/</loc>
+  </url>
+  
+  <url>
+    <loc>https://earthfast.info/why/deforestation_and_flooding/</loc>
+  </url>
+  
+  <url>
+    <loc>https://earthfast.info/why/flooding_crop_failure/</loc>
+  </url>
+  
+  <url>
+    <loc>https://earthfast.info/why/impacts_ecosystems/</loc>
+  </url>
+  
+  <url>
+    <loc>https://earthfast.info/why/impacts_human_health/</loc>
+  </url>
+  
+  <url>
+    <loc>https://earthfast.info/why/impacts_of_sea_level_rise/</loc>
+  </url>
+  
+  <url>
+    <loc>https://earthfast.info/why/impacts_property_businesses/</loc>
+  </url>
+  
+  <url>
+    <loc>https://earthfast.info/why/water_scarcity/</loc>
   </url>
   
 </urlset>
